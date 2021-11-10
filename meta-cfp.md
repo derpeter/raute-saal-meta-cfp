@@ -136,11 +136,6 @@ https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 Hast du vorab Fragen oder bist dir nicht sicher ob deine Idee reinpasst melde dich einfach bei uns unter event-orga2021[at]lists.haecksen.org.
 
 ## xHain hack+makespace
-gehacktes from hell
-
-...oder: Leben auf dem Land 
-In unserem Kanal beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
-
 Der xHain öffnet seine Türen für den rc3.rev2!
 Wir freuen uns darauf, euch unter unseren Bäumen begrüßen zu dürfen.
 Dachtest du, dass du deine Ideen nicht mit einem Publikum teilen kannst, weil es keinen zentralen ChaosCommunicationCongress gibt? Du arbeitest an einem coolen Projekt und möchtest es bekannt machen? Hast du einen tollen Hack gefunden, den du mit anderen Menschen teilen willst? Du hast etwas kaputt gemacht und es sind spannende Dinge dabei passiert? Dann reich deinen Talk ein!
@@ -151,6 +146,17 @@ Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 
 * Nur Online-Einreichungen
 Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
 
+
+## gehacktes from hell
+
+...oder: Leben auf dem Land 
+In unserem Kanal aus der Alten Hölle, Hoher Fläming beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
+
+### englisch version
+gehacktes from hell
+
+...or: Life in the countryside 
+In our channel produced at Alte Hoelle, Hoher Flaeming we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
 
 # [RC3 2021 - NOWHERE] Meta-Call for Participation
 In contrast to our expectations, our wishes or our dreams, there won't be any in person congress this year. But also in contrast, there won't a remote only congress. This year, we are doing a distributed and decentral event that has also remote aspects. Local spaces are hosting (virtual) events on their stages.
