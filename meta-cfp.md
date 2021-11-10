@@ -28,7 +28,7 @@ Wenn ihr eine solche Kuration nicht wünscht, bitte schreibt es explizit in eure
 # Channels
 Die in alphabetischer Reihenfolge sortierte Liste von Channels beschreibt das Konzept und die Themen in einem kurzen Absatz.  Weitere Details finden sich jeweils im verlinkten CfP des Channels.
 
-## rc1 / Main Track 
+## rc1 / Main Track
 Im Gegensatz zum letzten Jahr, wird es dieses Jahr keinen Main Track geben. Aus diesem Grund gibt es auch keinen dedizierten Call for Participation für einen Main Track.
 
 ## FeM
@@ -67,7 +67,7 @@ Logo: cwtv_logo_vektor.svg
 
 **R3S - Sharks in Cyberspace**
 
-Wie im letzten Jahr haben wir wieder eine echte Bühne mit Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
+Wie im letzten Jahr haben wir bei der [RemoteRheinRuhrStage](https://r3s.nrw) wieder eine echte Bühne mit Licht-, Audio- und Streamingequipment. Wer also mal wieder [fast ;-)] echtes Bühnenfeeling spüren möchte, kommt gerne zu uns in die Aula der Volkshochschule nach **Monheim am Rhein**. Monheim liegt verkehrsgünstig zwischen den beiden Großstädten Köln und Düsseldorf.
 
 Fühlt Euch herzlich eingeladen, wenn Ihr etwas zu **Opensource, Datensicherheit** oder **Nachhaltigkeit** zu sagen, zeigen, basteln habt. Natürlich interessieren uns aber auch alle anderen Cyber-Themen, die Ihr zu uns tragt.
 
@@ -76,9 +76,6 @@ CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## Chaosstudio Hamburg – We feel homesick for the future
 
-
-![ccchh-logo-1](ccchh-logo-white-on-transparent.svg)
-![ccchh-logo-2](ccchh-logo-white-on-transparent-drop-shadow.svg)
 ![ccchh-logo-3](ccchh-logo.svg)
 
 Wir haben Heimweh nach der Zukunft. Aus diesem Grund lädt das Chaosstudio Hamburg im Rahmen der [rC3](https://rc3.world) zur Beteiligung ein.
@@ -144,7 +141,7 @@ Ob (Netzwerk-)Politik, ökologische Themen, Präsentation der neuesten Sicherhei
 Es gibt genügend Platz für Workshops und die Grundausstattung wie Lötkolben, 3D-Drucker etc. ist auch vorhanden und kann genutzt werden.
 
 * Nur Online-Einreichungen
-Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht, das sich unter folgender Adresse befindet: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?).
 
 
 ## gehacktes from hell
@@ -152,18 +149,13 @@ Alle Vortragsvorschläge werden über unser Konferenz-Planungssystem eingereicht
 ...oder: Leben auf dem Land 
 In unserem Kanal aus der Alten Hölle, Hoher Fläming beschäftigen wir uns mit allem, was Leute auf dem Land beschäftigt. Von Verkehrsanbindung, über politische Partizipation und Gleichberechtigung zu Klimawandel und Digitalisierung. Dabei wollen wir über den Tellerrand der Dorfgrenze hinaus in die Welt schauen, uns aber auch um die Herausforderungen kümmern, vor denen eine Stadtbevölkerung nicht steht.
 
-### englisch version
-gehacktes from hell
-
-...or: Life in the countryside 
-In our channel produced at Alte Hoelle, Hoher Flaeming we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
 
 # [RC3 2021 - NOWHERE] Meta-Call for Participation
 In contrast to our expectations, our wishes or our dreams, there won't be any in person congress this year. But also in contrast, there won't a remote only congress. This year, we are doing a distributed and decentral event that has also remote aspects. Local spaces are hosting (virtual) events on their stages.
 
 Those stages will be be managed by their respective channesl. Every channels has its own topics and call for participation.
 
-We will present all of those in this Call for Participation. 
+We will present all of those in this Call for Participation.
 
 # Common Rules
 We had agreed on some common [rules](https://c3voc.de/wiki/events:jahresendveranstaltung2021:call_for_productionplaces), that we are going to present in the following.
@@ -176,7 +168,7 @@ Afterwards, there will be the respective content meetings. Our **notification da
 ## Multiple Submissions
 There are a lot of channels and thus there are a lot of possibilities to submit content. Please state with your submission on which channels are submitting your content.
 
-In case of multiple submission there will be a decision which channel will host you. 
+In case of multiple submission there will be a decision which channel will host you.
 
 ## Content Curation
 If you submit to one channel but the content team of that channel decised that another channel might cover your talk better, we will forward to your submission to the matching channel. If there are two nearly identical submissions on different channels, we might ask you to merge them.
@@ -186,7 +178,7 @@ If you submit to one channel but the content team of that channel decised that a
 The following list of channels is sorted by chaos and magick and presents you the channels and their topics.
 
 ## RC1 / Main Track
-In contrast to last year, there will be dedicated channels as main track. Thus, there won't be any Call for Participation for a main track on the RC3 2021 NOWHERE. 
+In contrast to last year, there will be dedicated channels as main track. Thus, there won't be any Call for Participation for a main track on the RC3 2021 NOWHERE.
 
 
 ## FeM
@@ -224,13 +216,15 @@ Logo: cwtv_logo_vektor.svg
 
 **R3S - Sharks in Cyberspace**.
 
-Like last year, we will have a real stage with lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
+Like last year, we will have at the [RemoteRheinRuhrStage](https://r3s.nrw) a real venue with lighting, audio and streaming equipment. So if you want to have [almost ;-)] real stage feeling again, you are welcome to join us in the auditorium of the Volkshochschule in **Monheim am Rhein**. Monheim is located between the two big cities Cologne and Düsseldorf easily reachable by public transport.
 
 Feel invited if you have something to say, show, tinker to **Open source**, **Data Security** or **Sustainability**. Of course we are also interested in all other cyber topics you bring to us.
 
 CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
 
 ## Chaosstudio Hamburg – We feel homesick for the future
+
+![ccchh-logo-3](ccchh-logo.svg)
 
 We feel homesick for the future. For this reason, Chaosstudio Hamburg invites you to participate in [rC3](https://rc3.world).
 
@@ -267,7 +261,7 @@ You may come to our "studio" in Bamberg if the situation between Christmas and N
 MISSING
 
 ## Sendezentrum
-MISSING
+The Sendezentrum will offer a program of live podcasts and talks on podcasting topics. The Sendezentrum is virtual only, there is no presence stage. https://sendegate.de/t/sendezentrum-rc3-2021-call-for-participation-live-podcasts-talks-workshops/14536
 
 ## haecksen
 ["Just another day in Paradise"](https://events.haecksen.org/) is the motto under which the [Haecksen](https://www.haecksen.org/) will end the year 2021 with you. To make the year-end event really a paradise, we need you, your ideas, your creativity or your know-how. Therefore, submit your talk, workshop, lightning talk or panel to our CfP.
@@ -277,11 +271,6 @@ https://pretalx.c3voc.de/rc3-2021-haecksen/cfp
 If you have any questions in advance or if you're not sure whether your idea fits, just contact us at event-orga2021 [at] lists.haecksen.org.
 
 ## xHain hack+makespace
-gehacktes from hell
-
-...or: Life in the countryside 
-In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
-
 
 xHain will be opening its doors for the rc3.rev2!
 We look forward to welcoming you under our trees.
@@ -293,4 +282,11 @@ Whether (network) politics, ecological topics, presentation of the latest securi
 There is enough space for workshops and the basic equipment, such as soldering iron, 3D printer, etc., is also there and can be used.
 
 * Online submissions only
-All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?). 
+All presentation proposals are submitted via our conference planning system, which is located at the following address: [CfP](https://pretalx.c3voc.de/rc3-2021-xhain/cfp?).
+
+## gehacktes from hell
+
+...or: Life in the countryside
+In our channel we deal with everything that concerns people in the countryside. From transport connections, political participation and equal rights to climate change and digitalization. In doing so, we want to look beyond the village borders into the world, but also take care of the challenges that an urban population does not have to deal with.
+
+
